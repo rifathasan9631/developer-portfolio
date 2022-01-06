@@ -21,9 +21,12 @@ section{
 }
 .hw{
     width: 50%;
+padding-left: 5%;
+
 }
 .hw img{
     width: 80%;
+    padding-top: 5%;
 }
 
 
