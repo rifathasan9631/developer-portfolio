@@ -31,6 +31,17 @@ padding-left: 5%;
 .xd{
     color: blue;
 }
-
+.lb{
+    text-decoration: none;
+ background-color: orange;
+color: rgba(0, 2, 102, 0.89);
+padding: 5px 5px;
+border-radius: 5px;
+font-weight: 700;
+font-style: initial;
+}
+.bi{
+    background-image: url(images/top-banner.png);
+}
 
 
