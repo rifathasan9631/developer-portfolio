@@ -14,5 +14,18 @@ p{
     font-size: 20px;
 }
 .color{
-    color: chocolate;
+    color: rgb(96, 208, 236);
 }
+section{
+    display: flex;
+}
+.hw{
+    width: 50%;
+}
+.hw img{
+    width: 80%;
+}
+
+
+
+
