@@ -19,6 +19,7 @@ p{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .hw{
     width: 50%;
@@ -28,6 +29,7 @@ padding-left: 5%;
 .hw img{
     width: 80%;
     padding-top: 5%;
+  
 }
 .xd{
     color: blue;
@@ -45,5 +47,17 @@ font-style: initial;
     background-image: url(images/top-banner.png);
 background-repeat: no-repeat;
 }
-
-
+.hw1{
+    text-decoration: none;
+color: rgba(0, 2, 102, 0.89);
+padding: 5px 5px;
+border-radius: 5px;
+font-weight: 700;
+font-style: initial;
+}
+.we{
+    background-color: lightcoral;
+    padding: 5px 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
