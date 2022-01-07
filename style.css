@@ -48,7 +48,6 @@ font-style: initial;
 background-repeat: no-repeat;
 }
 .hw1{
-    text-decoration: none;
 color: rgba(0, 2, 102, 0.89);
 padding: 5px 5px;
 border-radius: 5px;
@@ -58,6 +57,6 @@ font-style: initial;
 .we{
     background-color: lightcoral;
     padding: 5px 5px;
-    border-radius: 5px;
     text-decoration: none;
-}
+    border-radius: 5px;
+} 
