@@ -17,7 +17,7 @@ p{
 .color{
     color: rgb(96, 208, 236);
 }
-section{
+.fc{
     display: flex;
     margin-bottom: 100px;
 }
@@ -30,7 +30,7 @@ margin-right: 10px;
 .hw img{
     width: 80%;
     padding-top: 5%;
-    padding-right: 30%;
+
   
 }
 .xd{
