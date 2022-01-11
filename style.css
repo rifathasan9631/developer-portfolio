@@ -67,6 +67,16 @@ background-origin: padding-box;
 .kk{
     color: coral;
 }
+.cd{
+    background-image:url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.ty{
+    margin: 2% 2% 2% 2%;
+    padding: 2% 2%;
+    box-shadow: 10px 10px 40px darkcyan;
+border-radius: 5px;
+}
 #yy{
     color: dimgray;
     margin-left: 5%;
