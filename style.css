@@ -19,7 +19,6 @@ p{
 }
 .fc{
     display: flex;
-    margin-bottom: 100px;
 }
 .hw{
     width: 50%;
@@ -60,6 +59,17 @@ background-repeat: no-repeat;
 background-repeat: no-repeat;
 background-position: right;
 }
+.fc{
+    display: flex;
+background-origin: padding-box;
+}
+
+.kk{
+    color: coral;
+}
+#yy{
+    color: dimgray;
+    margin-left: 5%;
 
 
 
