@@ -70,6 +70,8 @@ background-origin: padding-box;
 .cd{
     background-image:url(images/exp-bg.png);
     background-repeat: no-repeat;
+    margin-bottom: 50px ;
+    padding-bottom: 4%;
 }
 .ty{
     margin: 2% 2% 2% 2%;
